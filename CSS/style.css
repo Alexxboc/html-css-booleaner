@@ -88,3 +88,28 @@ h1 {
     padding: 10px;
 }
 
+h3 {
+    color: #818181;
+    
+}
+
+footer {
+    margin-top: 40px;
+}
+
+#monitor-img {
+    width: 300px;
+    height: 200px;
+    background-image: url(../img/monitor.jpg);
+    background-size: cover;
+    color: white;
+}
+
+#second-img {
+    width:300px;
+    height: 200px;
+    background-image: url(../img/graph.jpg);
+    background-size: cover;
+    color: white;
+
+}
