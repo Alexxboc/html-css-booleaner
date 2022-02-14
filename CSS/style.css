@@ -2,4 +2,49 @@
 /* Colore sfondo header: #4EA0FF
 Colore testo The Booleaner: #7DCCF0 
 Colore top tabella: #20A9E5
-Colore caselle tabella: #B1E5F2 */
+Colore caselle tabella: #B1E5F2 
+Colore testo grigio: #818181
+*/
+
+.banner {
+    height: 175px;
+    background-color: #4EA0FF;
+    background-image: url(../img/pattern.png);
+    background-size: auto;
+    background-repeat: repeat;
+    
+}
+
+#logo {
+    height: 40%;
+    margin-top: 80px;
+    margin-left: 10px;
+}
+
+h1 {
+    font-size: 100px;
+    margin-top: 1px;
+    margin-bottom: 2px;
+}
+
+.subtitle {
+    font-size: 25px;
+    margin-top: 1px;
+    color: #818181;
+    
+}
+
+#colored-text {
+    color: #7DCCF0;
+    
+}
+
+.images img {
+    display: inline-block;
+    height: 600px;
+
+}
+
+.info-images {
+    margin-top: 0;
+}
